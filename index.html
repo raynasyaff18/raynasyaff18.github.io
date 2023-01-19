@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.313">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Rayna Syafikha Habsah">
+<meta name="dcterms.date" content="2023-01-18">
+
+<title>Analisis Perkembangan Produktivitas Kelapa Sawit Indonesia Periode 2016-2022</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<script src="index_files/libs/clipboard/clipboard.min.js"></script>
+<script src="index_files/libs/quarto-html/quarto.js"></script>
+<script src="index_files/libs/quarto-html/popper.min.js"></script>
+<script src="index_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="index_files/libs/quarto-html/anchor.min.js"></script>
+<link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="index_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Analisis Perkembangan Produktivitas Kelapa Sawit Indonesia Periode 2016-2022</h1>
+<p class="subtitle lead">Metode Penelitian Politeknik APP Jakarta</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Rayna Syafikha Habsah </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 18, 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<p><img src="poltekapp.jpg" class="img-fluid"></p>
+<section id="pendahuluan" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="pendahuluan"><span class="header-section-number">1</span> Pendahuluan</h2>
+<section id="latar-belakang" class="level3" data-number="1.1">
+<h3 data-number="1.1" class="anchored" data-anchor-id="latar-belakang"><span class="header-section-number">1.1</span> Latar belakang</h3>
+<p>Ekspor merupakan kegiatan perdagangan dengan cara mengirimkan barang dari dalam negeri ke luar negeri. Indonesia memiliki sektor perkebunan terbesar untuk ekpor, terutama kelapa sawit. Kelapa sawit merupakan perkebunan Indonesia yang memiliki peran sangat penting dalam pertumbuhan ekonomi Indonesia. Pertumbuhan ekonomi Indonesia terbantu karena adanya perkembangan pada industri kelapa sawit yang berkembang pesat, hal ini karena terjadi peningkatan pada jumlah produksi kelapa sawit seiring banyaknya permintaan masyarakat untuk memenuhi kebutuhannya. Kelapa sawit yang merupakan komoditi unggulan perkebunan Indonesia dapat diolah menjadi minyak sawit (CPO) dan minyak inti sawit (PKO). Meskipun tanaman kelapa sawit ini berasal dari Afrika Barat, tetapi tanaman kelapa sawit hidup dengan subur di luar daerahnya, seperti Indonesia, Malaysia, Thailand, dan Papua Nugini.</p>
+<p>Menurut badan penelitian statistik atau BPS 2019 Indonesia masih menjadi negara penghasil kelapa sawit terbesar di dunia, dan yang menempati posisi kedua yaitu Malaysia. Pada tahun 2017 produksi kelapa sawit mengalami peningkatan yang sangat pesat dengan jumlah sebesar 37.965.224 ton. Walaupun sempat penurun pada tahun 2020 menjadi 45.741.845 ton. Sedangkan pada tahun 2022, jumlahnya meningkat menjadi 48.235.405 ton. Selain produksi, perkembangan luas areal perkebunan kelapa sawit di Indonesia pun meningkat. Hal tersebut menyebabkan perkembangan produktivitas kelapa sawit di Indonesia mengalami peningkatan dari tahun ke tahun. Walaupun pada 2020 mengalami penurunan dikarenakan adanya virus <em>covid-19</em> yang mengakibatkan satu dunia mengalami penurunan dibeberapa sektor, luas areal kelapa sawit di Indonesia tidak mengalami penurunan, dan untuk perkembangan produktivitas kelapa sawit di Indonesia mengalami pemulihan kembali pada tahun 2021.</p>
+</section>
+<section id="batasan-permasalahan" class="level3" data-number="1.2">
+<h3 data-number="1.2" class="anchored" data-anchor-id="batasan-permasalahan"><span class="header-section-number">1.2</span> Batasan Permasalahan</h3>
+<p>Pembatasan suatu masalah digunakan untuk membatasi jangkauan proses yang akan dibahas agar tetap pada satu topik dan menghindari pelebaran pokok permasalahan. Peneliti menetapkan batasan masalah atas beberapa hal, yaitu membahas terkait produktivitas dan luas lahan kelapa sawit di Indonesia.</p>
+</section>
+<section id="rumusan-masalah" class="level3" data-number="1.3">
+<h3 data-number="1.3" class="anchored" data-anchor-id="rumusan-masalah"><span class="header-section-number">1.3</span> Rumusan masalah</h3>
+<p>Berdasarkan latar belakang masalah yang telah dijelaskan di atas, maka rumusan masalah yang dikemukakan dalam penelitian ini adalah:</p>
+<ol type="1">
+<li><p>Bagaimana pengaruh perkembangan kuantitas kelapa sawit di Indonesia untuk produktivitasnya pada tahun 2016-2022?</p></li>
+<li><p>Bagaimana perkembangan ketersediaan lahan untuk meningkatkan produktivitas kelapa sawit di Indonesia pada tahun 2016-2022?</p></li>
+</ol>
+</section>
+<section id="tujuan-dan-manfaat-penelitian" class="level3" data-number="1.4">
+<h3 data-number="1.4" class="anchored" data-anchor-id="tujuan-dan-manfaat-penelitian"><span class="header-section-number">1.4</span> Tujuan dan manfaat penelitian</h3>
+<p>Tujuan dari penelitian ini yaitu untuk mengetahui bagaimana perkembangan produktivitas dan luas areal kelapa sawit di Indonesia pada tahun 2016-2022.</p>
+</section>
+</section>
+<section id="studi-pustaka" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="studi-pustaka"><span class="header-section-number">2</span> Studi pustaka</h2>
+<p>Kelapa sawit merupakan salah satu tanaman perkebunan yang mempunyai peran penting bagi subsektor perkebunan. Pengembangan kelapa sawit antara lain memberi manfaat dalam peningkatan pendapatan petani dan masyarakat, produksi yang menjadi bahan baku industri pengolahan yang menciptakan nilai tambah di dalam negeri, ekspor CPO yang menghasilkan devisa dan menyediakan kesempatan kerja. (director general of plantations, 2014)</p>
+<p>Tanaman Kelapa sawit merupakan komoditas tanaman perkebunan yang memegang peranan penting dalam sektor pertanian khusunya sektor perkebunan, karena tanaman kelapa sawit merupakan salah satu jenis tanaman penghasil minyak yang memiliki nilai ekonomis tinggi untuk membantu perekonomian masyarakat (Monde, 2016).</p>
+<p>Produktivitas adalah kemampuan memperoleh manfaat yang sebesar-besarnya dari sarana dan prasarana yang tersedia dengan menghasilkan output yang optimal bahkan kalau mungkin yang maksimal. (P. Siagian, 2009).</p>
+<p>Produksi adalah suatu kegiatan yang dapat menciptakan guna baik waktu, bentuk maupun tempat dalam rangka memenuhi kebutuhan manusia. Produksi tersebut dapat berupa barang ataupun jasa tetapi produksi diartikan juga sebagai suatu kegiatan mengubah sumber-sumber ke dalam produk atau proses mengubah input menjadi output. (Jakarta: Kencana Prenada Media Group, 2008)</p>
+<p>Hasibuan dalam Busro (2018:340), produktivitas adalah perbandingan antara output (hasil) dengan input (masukan). Jika produktivitas naik akan meningkatkan efisiensi (waktubahan-tenaga) dan sistem kerja, teknik produksi dan adanya peningkatan keterampilan dari tenaga kerjanya. Menurut dewan produktivitas nasional RI (Republik Indonesia) produksi dan produktivitas merupakan dua pengertian yang berbeda. Peningkatan produksi menunjukan pertambahan jumlah hasil yang dicapai, sedangkan peningkatan produktivitas mengandung pengertian pertambahan hasil dan perbaikan cara produksi. Peningkatan produksi tidak selalu disebabkan oleh peningkatan produktivitas, karena produksi dapat meningkat walaupun produktivitas tetap atau menurun.</p>
+<p>Berdasarkan data Ditjenbun, data luas lahan (areal) merupakan penjumlahan dari 3 tipe areal berdasarkan keadaan tanaman, yaitu immature (TBM; Tanaman Belum Menghasilkan), mature (TM; Tanaman Menghasilkan), dan damaged (TR; Tanaman Rusak). Areal mature merupakan luas tanaman. Areal perkebunan juga dibagi berdasarkan pengusahaan; yaitu perkebunan rakyat (PR), perkebunan besar negara (PBN), perkebunan besar swasta (PBS). Menurut Badan Statistik Penelitian, Luas areal komoditas kelapa adalah luas areal yang diusahakan oleh perusahaan perkebunan untuk komoditas kelapa yang terdiri dari lahan Tanaman Belum Menghasilkan (TBM), Tanaman Menghasilkan (TM), dan Tanaman Rusak/Tanaman Tidak Menghasilkan (TR/TTM) dalam satuan Hektar (Ha).</p>
+</section>
+<section id="metode-penelitian" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="metode-penelitian"><span class="header-section-number">3</span> Metode penelitian</h2>
+<section id="data" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="data"><span class="header-section-number">3.1</span> Data</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Produktivitas</th>
+<th>Produksi</th>
+<th>Luas Areal</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>3.588</td>
+<td>31.730.961</td>
+<td>11.201.465</td>
+</tr>
+<tr class="even">
+<td>3.634</td>
+<td>37.965.224</td>
+<td>14.048.722</td>
+</tr>
+<tr class="odd">
+<td>3.666</td>
+<td>42.883.631</td>
+<td>14.326.350</td>
+</tr>
+<tr class="even">
+<td>3.974</td>
+<td>47.120.247</td>
+<td>14.456.611</td>
+</tr>
+<tr class="odd">
+<td>3.814</td>
+<td>45.741.845</td>
+<td>14.586.597</td>
+</tr>
+<tr class="even">
+<td>3.901</td>
+<td>46.854.457</td>
+<td>14..663.416</td>
+</tr>
+<tr class="odd">
+<td>3.903</td>
+<td>48.235.405</td>
+<td>15.380.981</td>
+</tr>
+</tbody>
+</table>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">setwd</span>(<span class="st">'D:/Metopel/UAS METOPEL'</span>)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Warning: package 'readxl' was built under R version 4.2.2</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>dat<span class="ot">&lt;-</span><span class="fu">read_excel</span>(<span class="st">'latihan.xlsx'</span>)</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>reg1<span class="ot">&lt;-</span><span class="fu">lm</span>(Y<span class="sc">~</span>X<span class="sc">+</span>S,<span class="at">data=</span>dat)</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>dat<span class="sc">$</span>m<span class="ot">&lt;-</span><span class="fu">resid</span>(reg1)</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(dat<span class="sc">$</span>S,dat<span class="sc">$</span>m,<span class="at">xlab=</span><span class="st">"Produktivitas"</span>,<span class="at">ylab=</span><span class="st">"error"</span>)</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="fu">abline</span>(<span class="at">h=</span><span class="dv">0</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="index_files/figure-html/Plot%20Error%20Terhadap%20Produktivitas-1.png" class="img-fluid figure-img" width="672"></p>
+<p></p><figcaption class="figure-caption">Plot Error Terhadap Produktivitas</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">setwd</span>(<span class="st">'D:/Metopel/UAS METOPEL'</span>)</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>dat<span class="ot">&lt;-</span><span class="fu">read_excel</span>(<span class="st">'latihan.xlsx'</span>)</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>reg1<span class="ot">&lt;-</span><span class="fu">lm</span>(Y<span class="sc">~</span>X<span class="sc">+</span>S,<span class="at">data=</span>dat)</span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>dat<span class="sc">$</span>m<span class="ot">&lt;-</span><span class="fu">resid</span>(reg1)</span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(dat<span class="sc">$</span>X,dat<span class="sc">$</span>m,<span class="at">xlab=</span><span class="st">"Produksi"</span>,<span class="at">ylab=</span><span class="st">"error"</span>)</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a><span class="fu">abline</span>(<span class="at">h=</span><span class="dv">0</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="index_files/figure-html/Plot%20Error%20Terhadap%20Produksi-1.png" class="img-fluid figure-img" width="672"></p>
+<p></p><figcaption class="figure-caption">Plot Error Terhadap Produksi</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="metode-analisis" class="level3" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="metode-analisis"><span class="header-section-number">3.2</span> Metode analisis</h3>
+<p>Metode analisis yang digunakan pada penelitian ini menggunakan metode dengan mengambil data sekunder. Data pada analisis penelitian ini dicatat secara sistematis yang berbentuk data runtut waktu <em>(time series data)</em> periode 2016-2022. Penelitian ini menggunakan teknik analisis kuantitatif atau mengolah data dengan memperhitungkan perkembangan produktivitas, produksi, dan luas areal&nbsp; kelapa sawit di Indonesia. Selain mengunakan teknik kuantitatif, penelitian ini menggunakan penjabaran deksriptif. Metode yang dipilih pada penelitian ini yaitu menggunakan regresi multivariat dengan menggunakan 2 variabel independen yaitu produksi dan luas areal. Spesifikasi yang dilakukan yaitu:</p>
+<p>Y = β<sub>0</sub> + 𝛽<sub>1</sub>X + β<sub>2</sub>S+ μ</p>
+<p>Keterangan:</p>
+<p>Y = Produktivitas kelapa sawit</p>
+<p>β<sub>0</sub> = Konstanta</p>
+<p>β<sub>1</sub> = Konstanta produksi</p>
+<p>β<sub>2</sub> = Konstanta luas areal</p>
+<p>X = Produksi</p>
+<p>S =Luas areal</p>
+<p>μ = error term</p>
+</section>
+</section>
+<section id="pembahasan" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="pembahasan"><span class="header-section-number">4</span> Pembahasan</h2>
+<section id="pembahasan-masalah" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="pembahasan-masalah"><span class="header-section-number">4.1</span> Pembahasan masalah</h3>
+<p>Tabel 1. Perkembangan produktivitas kelapa sawit di Indonesia tahun 2016-2022</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Tahun</th>
+<th>Produktivitas</th>
+<th>Perkembangan</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2016</td>
+<td>3.588</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>2017</td>
+<td>3.634</td>
+<td>1,28</td>
+</tr>
+<tr class="odd">
+<td>2018</td>
+<td>3.666</td>
+<td>0,88</td>
+</tr>
+<tr class="even">
+<td>2019</td>
+<td>3.974</td>
+<td>8,40</td>
+</tr>
+<tr class="odd">
+<td>2020</td>
+<td>3.814</td>
+<td>-4,03</td>
+</tr>
+<tr class="even">
+<td>2021</td>
+<td>3.901</td>
+<td>2,28</td>
+</tr>
+<tr class="odd">
+<td>2022</td>
+<td>3.903</td>
+<td>0,05</td>
+</tr>
+<tr class="even">
+<td>rata-rata</td>
+<td></td>
+<td>1,27</td>
+</tr>
+</tbody>
+</table>
+<p>Berdasarkan pada tabel di atas, perkembangan produktivitas kelapa sawit di Indonesia cenderung mengalami perubahan yang tidak terlalu signifikan. Jika bisa dilihat, pada tahun 2016-2019 produktivitas kelapa sawit di Indonesia mengalami peningkatan, terutama pada tahun 2019 yg mengalami peningkatan signifikan yaitu mengalami perkembangan sebesar 8,40. Sedangkan produktivitas mengalami penurunan tahun 2020 yaitu turun sebesar -4,03 atau menjadi 3.814, hal ini dikarenakan adanya virus covid-19 yang menganggu kegiatan produktivitas kelapa sawit di Indonesia. Tetapi hal ini tidak bertahan lama, karena pada tahun 2021 hingga 2022 mengalami peningkatan walau tidak besar yaitu dengan nilai perkembangan 0,05.</p>
+<p>Tabel 2. Perkembangan produksi kelapa sawit Indonesia tahun 2016-2022</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Tahun</th>
+<th>Produksi</th>
+<th>Perkembangan</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2016</td>
+<td>31.730.961</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>2017</td>
+<td>37.965.224</td>
+<td>19,65</td>
+</tr>
+<tr class="odd">
+<td>2018</td>
+<td>42.883.631</td>
+<td>12,96</td>
+</tr>
+<tr class="even">
+<td>2019</td>
+<td>47.120.247</td>
+<td>9,88</td>
+</tr>
+<tr class="odd">
+<td>2020</td>
+<td>45.741.845</td>
+<td>-2,93</td>
+</tr>
+<tr class="even">
+<td>2021</td>
+<td>46.854.457</td>
+<td>2,43</td>
+</tr>
+<tr class="odd">
+<td>2022</td>
+<td>48.235.405</td>
+<td>2,95</td>
+</tr>
+<tr class="even">
+<td>rata-rata</td>
+<td></td>
+<td>6,42</td>
+</tr>
+</tbody>
+</table>
+<p>Berdasarkan pada tabel diatas, produksi kelapa sawit di Indonesia memiliki rata-rata perkembangan sebesar 6,42. Dengan posisi produksi kelapa sawit terbesar pada tahun 2022 yaitu sebesar 48.235.405 ton sedangkan terkecil pada tahun 2020 yaitu sebesar 45.741.845 hal ini selain dikarenakan adanya virus covid-19, juga karena karat daun kelapa sawit yang disebabkan oleh alga C. Virescens. Pada tahun 2017 produksi kelapa sawit mengalami peningkatkan yang signifikan yaitu sebesar 19,64 dengan jumlah produksi sebesar 37.965.224 ton.</p>
+<p>Tabel 3. Perkembangan luas areal kelapa sawit Indonesia tahun 2016-2022</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Tahun</th>
+<th>Luas Areal</th>
+<th>Perkembangan</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2016</td>
+<td>11. 201.465</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>2017</td>
+<td>14.048.722</td>
+<td>25,42</td>
+</tr>
+<tr class="odd">
+<td>2018</td>
+<td>14.326.350</td>
+<td>1,98</td>
+</tr>
+<tr class="even">
+<td>2019</td>
+<td>14.456.611</td>
+<td>0,91</td>
+</tr>
+<tr class="odd">
+<td>2020</td>
+<td>14.586.597</td>
+<td>0,90</td>
+</tr>
+<tr class="even">
+<td>2021</td>
+<td>14.663.416</td>
+<td>0,53</td>
+</tr>
+<tr class="odd">
+<td>2022</td>
+<td>15.380.981</td>
+<td>4,89</td>
+</tr>
+<tr class="even">
+<td>rata-rata</td>
+<td></td>
+<td>4,95</td>
+</tr>
+</tbody>
+</table>
+<p>Berdasarkan pada tabel diatas, luas areal kelapa sawit di Indonesia mengalami peningkatkan yang tidak terlalu signifikan dari tahun 2017 hingga 2022. Peningkatan pada tahun tersebut dianggap normal dengan rata-rata perkembangan sebesar 4,95. Walaupun pada tahun 2019 hingga 2020 indonesia di landa pandemi covid-19, tetapi untuk peluasan areal kelapa sawit di Indonesia tidak mengalami penurunan, melainkan meningkat sebesar 0,90 yaitu dari 14.456.611 Ha menjadi 14.586.597 Ha</p>
+</section>
+<section id="analisis-masalah" class="level3" data-number="4.2">
+<h3 data-number="4.2" class="anchored" data-anchor-id="analisis-masalah"><span class="header-section-number">4.2</span> Analisis masalah</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Variabel</th>
+<th>Coefisient</th>
+<th>Std.Error</th>
+<th>t.value</th>
+<th>Prob</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Intercept</td>
+<td>3.292e+03</td>
+<td>3.196e+02</td>
+<td>10.300</td>
+<td>0.000501***</td>
+</tr>
+<tr class="even">
+<td>X</td>
+<td>4.036e-05</td>
+<td>1.077e-05</td>
+<td>3.749</td>
+<td>0.019965**</td>
+</tr>
+<tr class="odd">
+<td>Y</td>
+<td>-8.810e-05</td>
+<td>4.854e-05</td>
+<td>-1.815</td>
+<td>0.143740</td>
+</tr>
+</tbody>
+</table>
+<table class="table">
+<thead>
+<tr class="header">
+<th>R-Squared</th>
+<th>0.8847</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Adjusted R-Squarted</td>
+<td>0.8271</td>
+</tr>
+<tr class="even">
+<td>Prob (F-Stastistic)</td>
+<td>0.01329</td>
+</tr>
+</tbody>
+</table>
+<p>Berdasarkan hasil regresi diatas maka dapat dilihat bahwa X (Produksi)berpengaruh terhadap Produktivitas sedangkan Y (Luas Areal) tidak berpengaruh terhadap produktivitas. Namun dari hasil regresi tersebut menunjukkan bahwa Produktivitas positif berpengaruh signifikan terhadap X dan Y.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>rayna<span class="ot">&lt;-</span><span class="fu">read_excel</span>(<span class="st">"latihan.xlsx"</span>)</span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>reg<span class="ot">&lt;-</span><span class="fu">lm</span>(S<span class="sc">~</span>X<span class="sc">+</span>Y,<span class="at">data=</span>rayna)</span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(reg)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+Call:
+lm(formula = S ~ X + Y, data = rayna)
+
+Residuals:
+      1       2       3       4       5       6       7 
+  2.409  47.603 -94.468  53.999 -38.911   9.947  19.421 
+
+Coefficients:
+              Estimate Std. Error t value Pr(&gt;|t|)    
+(Intercept)  3.292e+03  3.196e+02  10.300 0.000501 ***
+X            4.036e-05  1.077e-05   3.749 0.019965 *  
+Y           -8.810e-05  4.854e-05  -1.815 0.143740    
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 63.45 on 4 degrees of freedom
+Multiple R-squared:  0.8847,    Adjusted R-squared:  0.8271 
+F-statistic: 15.35 on 2 and 4 DF,  p-value: 0.01329</code></pre>
+</div>
+</div>
+</section>
+</section>
+<section id="kesimpulan" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="kesimpulan"><span class="header-section-number">5</span> Kesimpulan</h2>
+<p>Berdasarkan data penelitian diatas membuktikan bahwa produksi sangat mempengaruhi produktivitas, begitu pula dengan luas areal. Semakin banyaknya luas areal, produksi, dan adanya permintaan yang sangat&nbsp; pesat terkait kelapa sawit Indonesia, maka akan berkembang juga produktivitasnya. Pada tabel data 1 dan 2, di tahun 2020 produksi kelapa saawit mengalami penurunan dan hal itu mempengaruhi produktivitas kelapa sawit itu sendiri. Sedangkan berdasarkan hasil regresi bahwa X (Produksi) berpengaruh terhadap Produktivitas sedangkan Y (Luas Areal) tidak berpengaruh terhadap produktivitas. Namun dari hasil regresi tersebut menunjukkan bahwa Produktivitas positif berpengaruh signifikan terhadap X dan Y.</p>
+</section>
+<section id="referensi" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="referensi"><span class="header-section-number">6</span> Referensi</h2>
+<p><em>Sistem Informasi Rujukan Statistik—Search</em>. (t.t.). Diambil 19 Januari 2023, dari <a href="https://sirusa.bps.go.id/sirusa/index.php/site/search?search=luas+areal+komoditas+kelapa+sawit&amp;yt0=Cari" class="uri">https://sirusa.bps.go.id/sirusa/index.php/site/search?search=luas+areal+komoditas+kelapa+sawit&amp;yt0=Cari</a></p>
+<p><em>Kementerian Pertanian Direktorat Jenderal Perkebunan: Buku Statistik Perkebunan 2020-2022</em>. (t.t.). Diambil 19 Januari 2023, dari <a href="https://ditjenbun.pertanian.go.id/?publikasi=buku-statistik-perkebunan-2020-2022" class="uri">https://ditjenbun.pertanian.go.id/?publikasi=buku-statistik-perkebunan-2020-2022</a></p>
+<p><em>Laju Fotosintesis Pada Tanaman Kelapa Sawit Terinfeksi Karat Daun Cephaleuros virescens.</em> (t.t). Diambil 19 Januari 2023, dari <a href="https://journal.ipb.ac.id/index.php/jfiti/article/view/27094/19208" class="uri">https://journal.ipb.ac.id/index.php/jfiti/article/view/27094/19208</a></p>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

@@ -1,0 +1,193 @@
+---
+title: "Analisis Perkembangan Produktivitas Kelapa Sawit Indonesia Periode 2016-2022"
+subtitle: "Metode Penelitian Politeknik APP Jakarta"
+author: "Rayna Syafikha Habsah"
+date: 2023-01-18
+number-sections: true
+format:
+  html: default
+  docx: default
+editor: visual
+---
+
+![](poltekapp.jpg)
+
+## Pendahuluan
+
+### Latar belakang
+
+Ekspor merupakan kegiatan perdagangan dengan cara mengirimkan barang dari dalam negeri ke luar negeri. Indonesia memiliki sektor perkebunan terbesar untuk ekpor, terutama kelapa sawit. Kelapa sawit merupakan perkebunan Indonesia yang memiliki peran sangat penting dalam pertumbuhan ekonomi Indonesia. Pertumbuhan ekonomi Indonesia terbantu karena adanya perkembangan pada industri kelapa sawit yang berkembang pesat, hal ini karena terjadi peningkatan pada jumlah produksi kelapa sawit seiring banyaknya permintaan masyarakat untuk memenuhi kebutuhannya. Kelapa sawit yang merupakan komoditi unggulan perkebunan Indonesia dapat diolah menjadi minyak sawit (CPO) dan minyak inti sawit (PKO). Meskipun tanaman kelapa sawit ini berasal dari Afrika Barat, tetapi tanaman kelapa sawit hidup dengan subur di luar daerahnya, seperti Indonesia, Malaysia, Thailand, dan Papua Nugini.
+
+Menurut badan penelitian statistik atau BPS 2019 Indonesia masih menjadi negara penghasil kelapa sawit terbesar di dunia, dan yang menempati posisi kedua yaitu Malaysia. Pada tahun 2017 produksi kelapa sawit mengalami peningkatan yang sangat pesat dengan jumlah sebesar 37.965.224 ton. Walaupun sempat penurun pada tahun 2020 menjadi 45.741.845 ton. Sedangkan pada tahun 2022, jumlahnya meningkat menjadi 48.235.405 ton. Selain produksi, perkembangan luas areal perkebunan kelapa sawit di Indonesia pun meningkat. Hal tersebut menyebabkan perkembangan produktivitas kelapa sawit di Indonesia mengalami peningkatan dari tahun ke tahun. Walaupun pada 2020 mengalami penurunan dikarenakan adanya virus *covid-19* yang mengakibatkan satu dunia mengalami penurunan dibeberapa sektor, luas areal kelapa sawit di Indonesia tidak mengalami penurunan, dan untuk perkembangan produktivitas kelapa sawit di Indonesia mengalami pemulihan kembali pada tahun 2021.
+
+### Batasan Permasalahan
+
+Pembatasan suatu masalah digunakan untuk membatasi jangkauan proses yang akan dibahas agar tetap pada satu topik dan menghindari pelebaran pokok permasalahan. Peneliti menetapkan batasan masalah atas beberapa hal, yaitu membahas terkait produktivitas dan luas lahan kelapa sawit di Indonesia.
+
+### Rumusan masalah
+
+Berdasarkan latar belakang masalah yang telah dijelaskan di atas, maka rumusan masalah yang dikemukakan dalam penelitian ini adalah:
+
+1.  Bagaimana pengaruh perkembangan kuantitas kelapa sawit di Indonesia untuk produktivitasnya pada tahun 2016-2022?
+
+2.  Bagaimana perkembangan ketersediaan lahan untuk meningkatkan produktivitas kelapa sawit di Indonesia pada tahun 2016-2022?
+
+### Tujuan dan manfaat penelitian
+
+Tujuan dari penelitian ini yaitu untuk mengetahui bagaimana perkembangan produktivitas dan luas areal kelapa sawit di Indonesia pada tahun 2016-2022.
+
+## Studi pustaka
+
+Kelapa sawit merupakan salah satu tanaman perkebunan yang mempunyai peran penting bagi subsektor perkebunan. Pengembangan kelapa sawit antara lain memberi manfaat dalam peningkatan pendapatan petani dan masyarakat, produksi yang menjadi bahan baku industri pengolahan yang menciptakan nilai tambah di dalam negeri, ekspor CPO yang menghasilkan devisa dan menyediakan kesempatan kerja. (director general of plantations, 2014)
+
+Tanaman Kelapa sawit merupakan komoditas tanaman perkebunan yang memegang peranan penting dalam sektor pertanian khusunya sektor perkebunan, karena tanaman kelapa sawit merupakan salah satu jenis tanaman penghasil minyak yang memiliki nilai ekonomis tinggi untuk membantu perekonomian masyarakat (Monde, 2016).
+
+Produktivitas adalah kemampuan memperoleh manfaat yang sebesar-besarnya dari sarana dan prasarana yang tersedia dengan menghasilkan output yang optimal bahkan kalau mungkin yang maksimal. (P. Siagian, 2009).
+
+Produksi adalah suatu kegiatan yang dapat menciptakan guna baik waktu, bentuk maupun tempat dalam rangka memenuhi kebutuhan manusia. Produksi tersebut dapat berupa barang ataupun jasa tetapi produksi diartikan juga sebagai suatu kegiatan mengubah sumber-sumber ke dalam produk atau proses mengubah input menjadi output. (Jakarta: Kencana Prenada Media Group, 2008)
+
+Hasibuan dalam Busro (2018:340), produktivitas adalah perbandingan antara output (hasil) dengan input (masukan). Jika produktivitas naik akan meningkatkan efisiensi (waktubahan-tenaga) dan sistem kerja, teknik produksi dan adanya peningkatan keterampilan dari tenaga kerjanya. Menurut dewan produktivitas nasional RI (Republik Indonesia) produksi dan produktivitas merupakan dua pengertian yang berbeda. Peningkatan produksi menunjukan pertambahan jumlah hasil yang dicapai, sedangkan peningkatan produktivitas mengandung pengertian pertambahan hasil dan perbaikan cara produksi. Peningkatan produksi tidak selalu disebabkan oleh peningkatan produktivitas, karena produksi dapat meningkat walaupun produktivitas tetap atau menurun.
+
+Berdasarkan data Ditjenbun, data luas lahan (areal) merupakan penjumlahan dari 3 tipe areal berdasarkan keadaan tanaman, yaitu immature (TBM; Tanaman Belum Menghasilkan), mature (TM; Tanaman Menghasilkan), dan damaged (TR; Tanaman Rusak). Areal mature merupakan luas tanaman. Areal perkebunan juga dibagi berdasarkan pengusahaan; yaitu perkebunan rakyat (PR), perkebunan besar negara (PBN), perkebunan besar swasta (PBS). Menurut Badan Statistik Penelitian, Luas areal komoditas kelapa adalah luas areal yang diusahakan oleh perusahaan perkebunan untuk komoditas kelapa yang terdiri dari lahan Tanaman Belum Menghasilkan (TBM), Tanaman Menghasilkan (TM), dan Tanaman Rusak/Tanaman Tidak Menghasilkan (TR/TTM) dalam satuan Hektar (Ha).
+
+## Metode penelitian
+
+### Data
+
+| Produktivitas | Produksi   | Luas Areal  |
+|---------------|------------|-------------|
+| 3.588         | 31.730.961 | 11.201.465  |
+| 3.634         | 37.965.224 | 14.048.722  |
+| 3.666         | 42.883.631 | 14.326.350  |
+| 3.974         | 47.120.247 | 14.456.611  |
+| 3.814         | 45.741.845 | 14.586.597  |
+| 3.901         | 46.854.457 | 14..663.416 |
+| 3.903         | 48.235.405 | 15.380.981  |
+
+```{r}
+#| label: Plot Error Terhadap Produktivitas
+#| fig-cap: "Plot Error Terhadap Produktivitas"
+setwd('D:/Metopel/UAS METOPEL')
+library(readxl)
+dat<-read_excel('latihan.xlsx')
+reg1<-lm(Y~X+S,data=dat)
+dat$m<-resid(reg1)
+plot(dat$S,dat$m,xlab="Produktivitas",ylab="error")
+abline(h=0)
+```
+
+```{r}
+#| label: Plot Error Terhadap Produksi
+#| fig-cap: "Plot Error Terhadap Produksi"
+setwd('D:/Metopel/UAS METOPEL')
+dat<-read_excel('latihan.xlsx')
+reg1<-lm(Y~X+S,data=dat)
+dat$m<-resid(reg1)
+plot(dat$X,dat$m,xlab="Produksi",ylab="error")
+abline(h=0)
+```
+
+### Metode analisis
+
+Metode analisis yang digunakan pada penelitian ini menggunakan metode dengan mengambil data sekunder. Data pada analisis penelitian ini dicatat secara sistematis yang berbentuk data runtut waktu *(time series data)* periode 2016-2022. Penelitian ini menggunakan teknik analisis kuantitatif atau mengolah data dengan memperhitungkan perkembangan produktivitas, produksi, dan luas areal  kelapa sawit di Indonesia. Selain mengunakan teknik kuantitatif, penelitian ini menggunakan penjabaran deksriptif. Metode yang dipilih pada penelitian ini yaitu menggunakan regresi multivariat dengan menggunakan 2 variabel independen yaitu produksi dan luas areal. Spesifikasi yang dilakukan yaitu:
+
+Y = β~0~ + 𝛽~1~X + β~2~S+ μ
+
+Keterangan:
+
+Y = Produktivitas kelapa sawit
+
+β~0~ = Konstanta
+
+β~1~ = Konstanta produksi
+
+β~2~ = Konstanta luas areal
+
+X = Produksi
+
+S =Luas areal
+
+μ = error term
+
+## Pembahasan
+
+### Pembahasan masalah
+
+Tabel 1. Perkembangan produktivitas kelapa sawit di Indonesia tahun 2016-2022
+
+| Tahun     | Produktivitas | Perkembangan |
+|-----------|---------------|--------------|
+| 2016      | 3.588         | \-           |
+| 2017      | 3.634         | 1,28         |
+| 2018      | 3.666         | 0,88         |
+| 2019      | 3.974         | 8,40         |
+| 2020      | 3.814         | -4,03        |
+| 2021      | 3.901         | 2,28         |
+| 2022      | 3.903         | 0,05         |
+| rata-rata |               | 1,27         |
+
+Berdasarkan pada tabel di atas, perkembangan produktivitas kelapa sawit di Indonesia cenderung mengalami perubahan yang tidak terlalu signifikan. Jika bisa dilihat, pada tahun 2016-2019 produktivitas kelapa sawit di Indonesia mengalami peningkatan, terutama pada tahun 2019 yg mengalami peningkatan signifikan yaitu mengalami perkembangan sebesar 8,40. Sedangkan produktivitas mengalami penurunan tahun 2020 yaitu turun sebesar -4,03 atau menjadi 3.814, hal ini dikarenakan adanya virus covid-19 yang menganggu kegiatan produktivitas kelapa sawit di Indonesia. Tetapi hal ini tidak bertahan lama, karena pada tahun 2021 hingga 2022 mengalami peningkatan walau tidak besar yaitu dengan nilai perkembangan 0,05.
+
+Tabel 2. Perkembangan produksi kelapa sawit Indonesia tahun 2016-2022
+
+| Tahun     | Produksi   | Perkembangan |
+|-----------|------------|--------------|
+| 2016      | 31.730.961 | \-           |
+| 2017      | 37.965.224 | 19,65        |
+| 2018      | 42.883.631 | 12,96        |
+| 2019      | 47.120.247 | 9,88         |
+| 2020      | 45.741.845 | -2,93        |
+| 2021      | 46.854.457 | 2,43         |
+| 2022      | 48.235.405 | 2,95         |
+| rata-rata |            | 6,42         |
+
+Berdasarkan pada tabel diatas, produksi kelapa sawit di Indonesia memiliki rata-rata perkembangan sebesar 6,42. Dengan posisi produksi kelapa sawit terbesar pada tahun 2022 yaitu sebesar 48.235.405 ton sedangkan terkecil pada tahun 2020 yaitu sebesar 45.741.845 hal ini selain dikarenakan adanya virus covid-19, juga karena karat daun kelapa sawit yang disebabkan oleh alga C. Virescens. Pada tahun 2017 produksi kelapa sawit mengalami peningkatkan yang signifikan yaitu sebesar 19,64 dengan jumlah produksi sebesar 37.965.224 ton.
+
+Tabel 3. Perkembangan luas areal kelapa sawit Indonesia tahun 2016-2022
+
+| Tahun     | Luas Areal   | Perkembangan |
+|-----------|--------------|--------------|
+| 2016      | 11\. 201.465 | \-           |
+| 2017      | 14.048.722   | 25,42        |
+| 2018      | 14.326.350   | 1,98         |
+| 2019      | 14.456.611   | 0,91         |
+| 2020      | 14.586.597   | 0,90         |
+| 2021      | 14.663.416   | 0,53         |
+| 2022      | 15.380.981   | 4,89         |
+| rata-rata |              | 4,95         |
+
+Berdasarkan pada tabel diatas, luas areal kelapa sawit di Indonesia mengalami peningkatkan yang tidak terlalu signifikan dari tahun 2017 hingga 2022. Peningkatan pada tahun tersebut dianggap normal dengan rata-rata perkembangan sebesar 4,95. Walaupun pada tahun 2019 hingga 2020 indonesia di landa pandemi covid-19, tetapi untuk peluasan areal kelapa sawit di Indonesia tidak mengalami penurunan, melainkan meningkat sebesar 0,90 yaitu dari 14.456.611 Ha menjadi 14.586.597 Ha
+
+### Analisis masalah
+
+| Variabel  | Coefisient | Std.Error | t.value | Prob           |
+|-----------|------------|-----------|---------|----------------|
+| Intercept | 3.292e+03  | 3.196e+02 | 10.300  | 0.000501\*\*\* |
+| X         | 4.036e-05  | 1.077e-05 | 3.749   | 0.019965\*\*   |
+| Y         | -8.810e-05 | 4.854e-05 | -1.815  | 0.143740       |
+
+| R-Squared           | 0.8847  |
+|---------------------|---------|
+| Adjusted R-Squarted | 0.8271  |
+| Prob (F-Stastistic) | 0.01329 |
+
+Berdasarkan hasil regresi diatas maka dapat dilihat bahwa X (Produksi)berpengaruh terhadap Produktivitas sedangkan Y (Luas Areal) tidak berpengaruh terhadap produktivitas. Namun dari hasil regresi tersebut menunjukkan bahwa Produktivitas positif berpengaruh signifikan terhadap X dan Y.
+
+```{r}
+library(readxl)
+rayna<-read_excel("latihan.xlsx")
+reg<-lm(S~X+Y,data=rayna)
+summary(reg)
+```
+
+## Kesimpulan
+
+Berdasarkan data penelitian diatas membuktikan bahwa produksi sangat mempengaruhi produktivitas, begitu pula dengan luas areal. Semakin banyaknya luas areal, produksi, dan adanya permintaan yang sangat  pesat terkait kelapa sawit Indonesia, maka akan berkembang juga produktivitasnya. Pada tabel data 1 dan 2, di tahun 2020 produksi kelapa saawit mengalami penurunan dan hal itu mempengaruhi produktivitas kelapa sawit itu sendiri. Sedangkan berdasarkan hasil regresi bahwa X (Produksi) berpengaruh terhadap Produktivitas sedangkan Y (Luas Areal) tidak berpengaruh terhadap produktivitas. Namun dari hasil regresi tersebut menunjukkan bahwa Produktivitas positif berpengaruh signifikan terhadap X dan Y.
+
+## Referensi
+
+*Sistem Informasi Rujukan Statistik---Search*. (t.t.). Diambil 19 Januari 2023, dari <https://sirusa.bps.go.id/sirusa/index.php/site/search?search=luas+areal+komoditas+kelapa+sawit&yt0=Cari>
+
+*Kementerian Pertanian Direktorat Jenderal Perkebunan: Buku Statistik Perkebunan 2020-2022*. (t.t.). Diambil 19 Januari 2023, dari <https://ditjenbun.pertanian.go.id/?publikasi=buku-statistik-perkebunan-2020-2022>
+
+*Laju Fotosintesis Pada Tanaman Kelapa Sawit Terinfeksi Karat Daun Cephaleuros virescens.* (t.t). Diambil 19 Januari 2023, dari <https://journal.ipb.ac.id/index.php/jfiti/article/view/27094/19208>
